@@ -1,0 +1,4 @@
+Androide network Capability
+1.wifi
+ 2G network
+  case:       

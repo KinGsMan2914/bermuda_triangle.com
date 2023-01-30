@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Bermuda Triangle</title>
+</head>
+<body background="1.jpg">
+<h1 align="center" style="color:red">  <u> *BERMUDA TRIANGLE*</u> </h1>
+<br>
+<br>
+<h2 style="color:white"><b> What is the Bermuda Triangle?</b></h2>
+<h3 style="color:white">
+<i>
+The Bermuda Triangle is a region in the western part of the North Atlantic Ocean in which ships, planes, and people are alleged to have mysteriously vanished.
+</i>
+</h3>
+<img src="2.jpg" height="400" width="1500">
+<h3>
+<p style="color:white">
+For other uses, see Bermuda Triangle (disambiguation).
+"Devil's Triangle" redirects here. For other uses, see Devil's Triangle (disambiguation).
+Bermuda Triangle
+Devil's Triangle
+Bermuda Triangle.png
+One version of the Bermuda Triangle area
+Coordinates	25°N 71°WCoordinates: 25°N 71°W
+Part of a series on the
+Paranormal
+Main articles
+Skepticism
+Related
+Parapsychology
+vte
+The Bermuda Triangle, also known as the Devil's Triangle, is an urban legend focused on a loosely-defined region in the western part of the North Atlantic Ocean where a number of aircraft and ships are said to have disappeared under mysterious circumstances. The idea of the area as uniquely prone to disappearances arose in the mid-20th century, but most reputable sources dismiss the idea that there is any mystery.<br>
+</p>
+</h3>
+<hr>
+<hr>
+<p>
+
+</body>
+</html>

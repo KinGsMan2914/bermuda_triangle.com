@@ -1,0 +1,8 @@
+The Android framework supports various cameras and camera features available on devices, permitting to capture pictures and videos in the applications.
+
+The audio can be recorded using the MediaRecorder APIs which is supported by the device hardware.
+
+Video capture using the Android framework requires careful management of the Camera object and coordination with the MediaRecorder class.
+
+android.hardware.camera2 API or camera Intent.
+The Android framework provisions capturing images and video through the android.hardware.camera2 API or camera Intent. The relevant classes are explained here. This package is the primary API for supervisory device cameras. It can be used to take pictures or videos when building a camera application..

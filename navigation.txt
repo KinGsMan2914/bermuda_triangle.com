@@ -1,0 +1,10 @@
+ <item
+            android:id="@+id/nav_offers"
+            android:icon="@drawable/ic_baseline_local_offer_24"
+            android:title="@string/offers" />
+
+ <fragment
+        android:id="@+id/nav_offers"
+        android:name="com.example.mycakestore.OffersFragment"
+        android:label="@string/offers"
+        tools:layout="@layout/fragment_offersk" />

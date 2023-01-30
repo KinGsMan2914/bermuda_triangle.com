@@ -1,0 +1,13 @@
+description
+Talking about tempting types of cake, an angel cake tops the list. The Angel Food Cake is baked in a tube pan and uses egg whites, cream of tartar, flour, and sugar as ingredients.
+(string)
+img_url
+"https://firebasestorage.googleapis.com/v0/b/my-cake-store.appspot.com/o/Coffee-cake.jpg?alt=media&token=d95ead3d-f6fc-4d13-b264-69bc527e7ffe"
+name
+"Angel Food Cake"
+price
+450
+rating
+"4.7"
+type
+"cake"
